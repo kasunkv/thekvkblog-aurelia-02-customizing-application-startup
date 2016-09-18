@@ -1,5 +1,5 @@
 # The KVK Blog - Building Apps With Aurelia: 02 - Customizing Aurelia Application Startup
-Hello Aurelia App for Getting Started with Aurelia Framework for the Building Apps with Aurelia Blog Series.
+In this we extend our Hello Aurelia App to customize the app startup to add our own logging and load a different root module for the app.
 
 #### Download Dependancies
 Run the following commands before runing the app.
